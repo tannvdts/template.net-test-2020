@@ -1,9 +1,9 @@
-# SUM_NODE_TEST_2020
+# TEMPLATE.NET-TEST-2020
 
 
-# Problems
+# Functions
 
-  - Sum Nodes
+  - sumNode(arr)
   ```sh
   Time Complexity: O(n)
   Memory Complexity: O(n)
